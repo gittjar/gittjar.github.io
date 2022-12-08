@@ -1,0 +1,17 @@
+/*APP SERVER Säännöt*/
+.app-server {
+    background-color: navy;
+}
+
+.app-server * {
+    color: goldenrod;
+}
+
+h1 {
+    background-color: rgb(202, 241, 228);
+    color: rgb(4, 165, 82);
+}
+
+section {
+    background-color: rgb(4, 165, 82);
+}
